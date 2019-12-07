@@ -6,7 +6,7 @@ SIMPLE TICKET RESERVATION SYSTEM IN PYTHON
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+***** FOR MORE PROJECTS :- anwarpatel91@gmail.com *****
 
 
 
